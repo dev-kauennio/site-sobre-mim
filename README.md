@@ -1,3 +1,3 @@
-# SITE SOBRE UM POUCO DE MIM
+# SITE SOBRE MIM
 
 primeiro projeto em html simples, feito para uma atividade acadêmica. 
